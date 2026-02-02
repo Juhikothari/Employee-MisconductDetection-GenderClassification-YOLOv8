@@ -1,6 +1,6 @@
 # Employee Misconduct Detection using YOLOv8
 
-This Final Year Project detects employee misconduct such as:
+This Project detects employee misconduct such as:
 
 - Drowsiness
 - Mobile usage
