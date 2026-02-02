@@ -1,0 +1,20 @@
+# Ignore Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore environment
+env/
+venv/
+
+# Ignore model files
+*.pt
+*.h5
+
+# Ignore firebase keys
+*.json
+
+# Ignore generated frames
+frames/
+
+# Ignore logs
+*.log
